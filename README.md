@@ -32,10 +32,9 @@ MultiClientChatWithCrypto/
 │   ├── Message/                      
 │   └── Server/                 
 ├── nbproject/                   
-├── src/                       
-│   ├── Client/        
-│   ├── Crypto/ 
-│   ├── Message/                      
-│   └── Server/             
-└── test/                               
+└── src/                       
+    ├── Client/        
+    ├── Crypto/ 
+    ├── Message/                      
+    └── Server/                                           
 ```
