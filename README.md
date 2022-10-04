@@ -2,7 +2,7 @@
 MultiClient Chat GUI (JAVA Swing) With Caesar Cipher
 
 <h1 align="center">
-    <img alt="JavaLogo" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo.png" />
+    <img alt="JavaLogo" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo.png" width="128" />
 </h1>
 
 <h3 align="center">
